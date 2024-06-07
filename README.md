@@ -1,2 +1,2 @@
-# Sohini-Chatterjee
+# Sohini Chatterjee
 This repository is for personal use.
